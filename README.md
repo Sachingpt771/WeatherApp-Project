@@ -11,4 +11,4 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 ### Sample-Image
 ![Homepage](assets/sample.jpg)
 
-<p align="center"><b>Created by geekymano</b></p>
+<p align="center"><b>Created by Sachin Kumar</b></p>
