@@ -9,6 +9,6 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 - Weather Radar & Rain maps
 
 ### Sample-Image
-![Homepage](Snapshots/sample.png)
+![Homepage](assets/sample.jpg)
 
 <p align="center"><b>Created by geekymano</b></p>
